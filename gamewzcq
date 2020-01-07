@@ -2,7 +2,7 @@
   "code": "0",
   "msg": "sucess",
   "data": {
-    "isOpenLogcatViewer": "0",
-    "accountId": "20190701123456"
+    "gameUrl": "http://raa.biggerking.cn/catszlw/indexzz.html",
+    "checkLoginUrl": "http://bdszlw.biggerking.cn/WebServer/wzcq_sdk/cpVerify.php"
   }
 }
