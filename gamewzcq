@@ -3,6 +3,6 @@
   "msg": "sucess",
   "data": {
     "gameUrl": "http://wzcq.longxuxing.com/wangzhe/indexzz.html",
-    "checkLoginUrl": "http://bdszlw.biggerking.cn/WebServer/wzcq_sdk/cpVerify.php"
+    "checkLoginUrl": "http://wzcq-server.longxuxing.com/WebServer/wzcq_sdk/cpVerify.php"
   }
 }
