@@ -1,0 +1,14 @@
+{
+  "data": {
+    "gameUrl": "http://res.hhzs.191game.com/honghu/jian/honghu.html",
+    "gameUrl2": "http://res.hhzs.191game.com/honghu/fan/honghu.html",
+    "checkLoginUrl": "http://s1.hhzs.191game.com/WebServer/honghu_sdk/verify.php",
+    "downloadUrl": "http://tmcqres.zsdkgame.com/chuanqidestiny/app-mycard-v37.apk?1580876101",
+    "version": "1.0.9",
+    "versionCode": 9,
+    "versionDesc": "新变化\n 1.優化遊戲體驗。\n 2.修復已知BUG。\n"
+  },
+  "errCode": 0,
+  "errMsg": "",
+  "success": true
+}
