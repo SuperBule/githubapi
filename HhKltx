@@ -4,6 +4,6 @@
   "data": {
     "gameUrl": "http://res.hhzs.191game.com/honghu/fan/kuanglong.html",
     "gameUrl2": "http://res.hhzs.191game.com/honghu/fan/kuanglong.html",
-    "checkLoginUrl": "http://s1.hhzs.191game.com/WebServer/honghu_sdk/verify.php2"
+    "checkLoginUrl": "http://s1.hhzs.191game.com/WebServer/honghu2_sdk/verify.php"
   }
 }
