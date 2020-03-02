@@ -3,6 +3,10 @@
   "msg": "sucess",
   "data": {
     "gameUrl": "http://wzcq.longxuxing.com/wangzhe/indexzz.html",
-    "checkLoginUrl": "http://wzcq-server.longxuxing.com/WebServer/wzcq_sdk/cpVerify.php"
+    "checkLoginUrl": "http://wzcq-server.longxuxing.com/WebServer/wzcq_sdk/cpVerify.php",
+    "gameUrl2_lyzg": "http://wzcq.longxuxing.com/wangzhe/indexylzg.html",
+    "checkLoginUrl2_lyzg": "http://wzcq-server.longxuxing.com/WebServer/lyzg_sdk/cpVerify.php",
+    "gameUrl3_jzsc": "http://wzcq.longxuxing.com/wangzhe/indexjzsc.html",
+    "checkLoginUrl3_jzsc": "http://wzcq-server.longxuxing.com/WebServer/jzsc_sdk/cpVerify.php"
   }
 }
