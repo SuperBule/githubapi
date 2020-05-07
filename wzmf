@@ -1,0 +1,13 @@
+{
+  "data": {
+    "GameUrl": "http://%74%6D%63%71%72%65%73%2E%68%77%79%78%70%72%6F%73%2E%63%6F%6D/chuanqidestiny/indexfbpili.html",
+    "checkship": "http://tmcq.hwyxpros.com/WebServer/taiwan_sdk/googlePayBilling/verify_new_plcs.php",
+    "googlepay_license_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAndKRYxN2wIAUCZOrSL+tz4EQmi4Ei4HfU1exfT1HRBv3Lpilb2n1E3FxVuRyVAsZTpKO2SCfOaT4QY6HHQtHMCku14M7IJkDJOsBNal8BoLZV+fqdDWep0WL8nNWX7koZi/YrSxp1Yl3ekOcFARjX/AzDykaB21FJIu8ftFi5dj++fM8Sag5ZSucGYvZ3poHYVnmpFa1cvGBv491FCNSBxwTkX0NnXVH5gt6YvnzgAsVhdW00yW3lm4niWWQYpjwWxyXXIeP7RyJQ1Mwl88DhG561ivcSoN4eiQMjOr1FOxsFjFQJD8MFn5KXrBcocY5QD8i+CjYNAuafCJasVKPiQIDAQAB",
+    "version": "1.6.4",
+    "versionCode": 64,
+    "versionDesc": "新变化\n 1.優化遊戲體驗。\n 2.修復已知BUG。\n"
+  },
+  "errCode": 0,
+  "errMsg": "",
+  "success": true
+}
